@@ -4,6 +4,7 @@
 *~
 data
 back
-Vth_Analysis*
+Vth_Analysis2
+DAC_Analysis2
 *.dat
 result/*
