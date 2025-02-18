@@ -1,0 +1,9 @@
+*.png
+*.root
+*.o
+*~
+data
+back
+Vth_Analysis*
+*.dat
+result/*
